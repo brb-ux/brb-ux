@@ -2,7 +2,7 @@
 - 👀 I’m interested in microcopy. 
 - 🌱 I’m currently learning how to write microcopy.
 - 💞️ I’m looking to collaborate on any project's microcopy.
-- 📫 How to reach me ...
+- 📫 How to reach me brb.microcopy@gmail.com.
 
 <!---
 brb-ux/brb-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
